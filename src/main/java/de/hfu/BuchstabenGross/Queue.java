@@ -1,4 +1,4 @@
-package de.hfu;
+package de.hfu.BuchstabenGross;
 
 public class Queue {
    int[] queue;
